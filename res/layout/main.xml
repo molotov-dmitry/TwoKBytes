@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:padding="10dp"
+              android:background="@color/bg_gray">
+    <com.dmitry.TwoKBytes.MySurfaceView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/gameField"
+            android:layout_weight="1"/>
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gameLog" android:layout_gravity="center_horizontal" android:gravity="center"
+            android:text="B"/>
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Restart"
+            android:id="@+id/gameRestart" android:layout_gravity="center_horizontal" android:onClick="RestartClick"
+            android:background="@drawable/button" android:textColor="@android:color/white"/>
+</LinearLayout>
+

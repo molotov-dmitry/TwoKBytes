@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_gray">#f0f0f0</color>
+    <color name="bg_blue">#42aaff</color>
+
+    <color name="field_bg">#ffa1a1a1</color>
+    <color name="field_tile_bg">#ffededed</color>
+
+    <color name="btn_default">#1e90ff</color>
+    <color name="btn_focused">#42aaff</color>
+    <color name="btn_pressed">#1772cc</color>
+    <color name="btn_disabled">#9db1cc</color>
+
+    <color name="tile_1">#ffcccccc</color>
+    <color name="tile_2">#ffc1c1c1</color>
+    <color name="tile_3">#ffffd284</color>
+    <color name="tile_4">#ffffbc6a</color>
+    <color name="tile_5">#ffff9c59</color>
+    <color name="tile_6">#ffff864a</color>
+    <color name="tile_7">#ffffbb00</color>
+    <color name="tile_8">#fff5d132</color>
+    <color name="tile_9">#fbec5d</color>
+    <color name="tile_10">#fffff097</color>
+    <color name="tile_11">#fffffbfb</color>
+
+    <color name="tile_font_color">#ff7a7a7a</color>
+
+    <!--<color name="font_1">#000000</color>-->
+    <!--<color name="tile_2">#000000</color>-->
+    <!--<color name="tile_3">#000000</color>-->
+    <!--<color name="tile_4">#000000</color>-->
+    <!--<color name="tile_5">#000000</color>-->
+    <!--<color name="tile_6">#000000</color>-->
+    <!--<color name="tile_7">#000000</color>-->
+    <!--<color name="tile_8">#000000</color>-->
+    <!--<color name="tile_9">#000000</color>-->
+    <!--<color name="tile_10">#000000</color>-->
+    <!--<color name="tile_11">#cd5b45</color>-->
+</resources>
